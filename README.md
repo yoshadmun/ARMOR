@@ -1,6 +1,5 @@
-[# ARMOR
-NASA JSC Hackathon 2024
-](https://docs.google.com/presentation/d/1QZTonUkevR5eY7v3c1ctYmNv8Vx-AnrBsdMBcfOZtsk/edit?usp=sharing
+![ARMOR
+NASA JSC Hackathon 2024](https://docs.google.com/presentation/d/1QZTonUkevR5eY7v3c1ctYmNv8Vx-AnrBsdMBcfOZtsk/edit?usp=sharing)
 
 ## Inspiration
 The Disaster Pod Field Hospital (DPFH) is a conceptual idea to be deployed by SpaceX Starship in disaster-stricken areas worldwide. It must be secured from threats such as attackers who may trespass the perimeter in order to protect its resources.
