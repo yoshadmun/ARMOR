@@ -27,6 +27,9 @@ The security hub utilizes a motion sensor to trigger the intruder deterrent func
 ## Challenges we ran into
 - Fingerprint sensor arduino module unavailable
 - RFID sensor
+- Pins on our Arduino were Broken
+- Time Constraints
+- Staying awake and alert
 
 ## Accomplishments that we're proud of
 - Resolved multiple flashing LED light configuration and logic
