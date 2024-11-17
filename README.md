@@ -1,4 +1,4 @@
-![ARMOR
+[ARMOR
 NASA JSC Hackathon 2024](https://docs.google.com/presentation/d/1QZTonUkevR5eY7v3c1ctYmNv8Vx-AnrBsdMBcfOZtsk/edit?usp=sharing)
 
 ## Inspiration
